@@ -36,3 +36,6 @@ How to Run
 2-Install dependencies using pip install -r requirements.txt
 3-Update database connection details
 4-Run load_marketing_data.py
+
+## Dashboard Preview
+![Marketing Analytics Dashboard](https://github.com/user-attachments/assets/518396fe-ff9f-413c-bef3-152e7ff46e1d)
